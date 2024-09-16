@@ -1,0 +1,23 @@
+fonts-size: 18px
+
+fonts-weight:
+ bold
+ regular
+ extra-bold
+
+fonts-family:
+  - heading Fonts : Graphik
+  - info fonts: nunito sans
+
+colors:
+ -active-links color: #5454D4;
+ -primary-white: #fff;
+ -primary-cta-button: #5454D4;
+ -background-color: #19191B;
+ -linear-gradient-blue:
+ to: #5454D4
+ left: #5454D4
+-linear-gradient-yellow:
+ to: #FBA81C
+ left: #E05688
+ -contack-background-color: #979797;
