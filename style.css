@@ -82,7 +82,7 @@ a{
   left: -10px;
   min-width: 360px;
   height: 252px;
-  opacity: 28%;
+  opacity: 25%;
   filter: blur(100px);
   z-index: -1;
   transform: rotate(45deg);
@@ -169,7 +169,7 @@ top: 70px;
 left: -20px;
 min-width: 360px;
 min-height: 252px;
-opacity: 30%;
+opacity: 20%;
 filter: blur(100px);
 z-index: -1;
 transform: rotate(-45deg);
