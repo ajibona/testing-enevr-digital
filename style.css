@@ -81,16 +81,13 @@ a{
   top: 10px;
   left: -10px;
   min-width: 360px;
-  object-fit: cover;
   height: 252px;
   opacity: 28%;
-  /* outline: 1px solid #5454D4; */
-  filter: blur(300px);
+  filter: blur(100px);
   z-index: -1;
   transform: rotate(45deg);
   border-radius: 200px;
   background: linear-gradient(to right, #5454D4 100%, #5454D4 32%);
-  overflow: hidden;
 }
 
 .hero-section-details{
@@ -172,8 +169,7 @@ top: 70px;
 left: -20px;
 min-width: 360px;
 min-height: 252px;
-outline: 1px solid #fff;
-opacity: 20%;
+opacity: 30%;
 filter: blur(100px);
 z-index: -1;
 transform: rotate(-45deg);
